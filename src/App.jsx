@@ -5,7 +5,7 @@ import { useState, useEffect, useRef } from "react";
 //  현재: 보르넬리 브랜드스토어 공식 링크
 //  개별 상품 URL이 생기면 CU_CANDLE1 등을 해당 URL로 교체하세요.
 // ─────────────────────────────────────────────────────────────────────────────
-const BORNELLI_URL = "https://shop.coupang.com/A00283859/224703?platform=p&source=brandstore_sdp_atf&pid=9470340921&viid=95141798358&brandId=0";
+const BORNELLI_URL = "https://shop.coupang.com/A00283859?source=brandstore_share&platform=p&src=1139998&spec=10799999&lptag=A00283859&wPcid=17789171675236508054181&brandId=0&btcEnableForce=false&mcid=311b934ba0f84b3eacc05d741fa35422";
 
 const CU_SHOP     = BORNELLI_URL;
 const CU_CANDLE1  = BORNELLI_URL;
